@@ -1,3 +1,3 @@
 FROM jupyter/datascience-notebook:latest
 
-COPY * /home/jovyan/
+COPY . /home/jovyan/
